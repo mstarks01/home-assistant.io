@@ -23,6 +23,7 @@ Obtain your oAuth2 Access Token from Linode account.
 
 - <http://cloud.linode.com>
 - Log in
+- In the top-right corner, select your name, then My Profile
 - Select API Tokens
 - Create a Personal Access Token,
 - Assigned scope (Please choose the least possible access required.)
